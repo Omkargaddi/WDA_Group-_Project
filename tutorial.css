@@ -21,7 +21,7 @@ background-size: 950px;
   color: #111827;
   padding-top: 150px;
   background-color: white;
-  border-radius: ;
+  border-radius:20px ;
 }
 
 .flex-container {
@@ -214,9 +214,7 @@ background-size: 950px;
     padding: 8px 20px;
     border-radius: 10px;
 }
-.alllinks ul{
-    margin-right: 100px;
-}
+
 #navLinks2 ul{
     margin-right: 450px;
 }
@@ -240,7 +238,10 @@ background-size: 950px;
 #check{
     display: none;
 }
-
+.btn2 a{
+    text-decoration: none;
+    color: white;
+}
 
 @media (max-width: 1020px){
     .checkbtn{

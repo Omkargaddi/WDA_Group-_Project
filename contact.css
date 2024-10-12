@@ -99,11 +99,10 @@ body {
     padding: 8px 20px;
     border-radius: 10px;
 }
-.alllinks ul{
-    margin-right: 100px;
-}
+
 #navLinks2 ul{
     margin-right: 450px;
+    font-size: 18px;
 }
 .search i{
     margin-right: 30px;
@@ -114,7 +113,8 @@ body {
 
 .nav-links ul li a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 23px;
+    font-weight: 500;
 }
 .checkbtn{
     font-size: 30px;
@@ -124,6 +124,10 @@ body {
 }
 #check{
     display: none;
+}
+.btn2 a{
+    text-decoration: none;
+    color: white;
 }
 
 
@@ -172,7 +176,6 @@ body {
         display: none;
     }
 }
-
 
 
 

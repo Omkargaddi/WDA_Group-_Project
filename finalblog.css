@@ -103,9 +103,7 @@ body{
     padding: 8px 20px;
     border-radius: 10px;
 }
-.alllinks ul{
-    margin-right: 100px;
-}
+
 #navLinks2 ul{
     margin-right: 450px;
 }
@@ -128,6 +126,10 @@ body{
 }
 #check{
     display: none;
+}
+.btn2 a{
+    text-decoration: none;
+    color: white;
 }
 
 
